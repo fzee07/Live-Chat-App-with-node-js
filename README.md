@@ -5,6 +5,7 @@
  If someone leaves the group, suddenly it will show you that your friends got disconnected.
 
   To install on your local server
+  
   1. npm init
   2. npm socket.io
   3. npm i --save dev nodemon
